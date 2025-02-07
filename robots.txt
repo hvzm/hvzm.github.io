@@ -1,0 +1,15 @@
+#
+# robots file for Nordita
+# last updated: HVZM 2011-03-03
+#
+User-agent: *
+Disallow: /
+Disallow: /bild
+Disallow: /Hilbert*
+Disallow: /install
+Disallow: /slask
+Disallow: /www.nordita.org
+Disallow: /www.nordita.org_OLD
+Disallow: /*.zip
+Disallow: /*.tgz
+Allow /index.html

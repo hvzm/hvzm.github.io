@@ -1,0 +1,14 @@
+BODY { background: #FFFFFF; }
+
+BODY                   { font-family: Verdana,Geneva,Arial,sans-serif; }
+P, DIV                 { font-family: Verdana,Geneva,Arial,sans-serif; font-size: 0.36cm; }
+OL, UL, DL, LI, DT, DD { font-family: Verdana,Geneva,Arial,sans-serif; font-size: 0.36cm; }
+H1, H2, H3, H4, H5, H6 { font-family: Verdana,Geneva,Arial,sans-serif; }
+
+TT, PRE  { font-family: Courier,"Courier New",monospace; }
+TT.pre   { white-space: pre; }
+
+A { text-decoration: none;}
+A:hover { text-decoration: underline;}
+
+.bgcolor-fysikum { background-color: #003366; }
